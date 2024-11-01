@@ -1,0 +1,12 @@
+{
+  "name": "Black Border 2 Mod APK (Unlimited Money)",
+  "version": "1.0.0",
+  "description": "Black Border 2 Mod APK (Unlimited Money) Download For Android.",
+  "main": "index.js",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
